@@ -8,6 +8,7 @@ import Orders from "./pages/Orders";
 import { useState } from "react";
 import Login from "./components/Login";
 export const backendUrl = import.meta.env.VITE_BACKEND_URL
+export const currency = 'CFA'
 import { ToastContainer} from 'react-toastify';
 import { useEffect } from "react";
 

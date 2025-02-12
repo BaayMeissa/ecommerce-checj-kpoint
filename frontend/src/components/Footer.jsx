@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
         <div className=''>
             {/* <img src={assets.logo} alt="" className='mb-5 w-32'/> */}
-            <h1 className='mb-10 text-3xl'>Njambur Tech Zone</h1>
+            <h1 className='mb-10 text-3xl'>NjàmburStyle</h1>
             <p className='w-full md:w-2/3 text-gray-600'>
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, dolorum perspiciatis! 
                 Nisi maxime fuga eos. Praesentium nihil soluta qui ea quasi, labore laboriosam quaerat quas quisquam sint facilis ex similique.
